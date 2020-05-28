@@ -23,8 +23,7 @@
 body {
   font-family: "Share Tech";
 }
-span.logo {
-  font-size: 2em;
-  vertical-align: -11%;
-  color: green;
+.logo {
+  height: 1em;
+  vertical-align: text-top;
 }
